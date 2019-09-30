@@ -1,4 +1,4 @@
--- Name and ID of the artists who do not have albums.
+-- Name and ID of the artists who don't have albums.
 
 SELECT Name AS Artist,
        Artists.ArtistId,
