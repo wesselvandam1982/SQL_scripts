@@ -1,4 +1,4 @@
--- Query Number 9: Find the albums with 12 or more tracks.
+-- Albums with 12 or more tracks.
 
 Select *,COUNT(TrackId)
 From Tracks
