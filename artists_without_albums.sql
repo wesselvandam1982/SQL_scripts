@@ -1,3 +1,5 @@
+-- Name and ID of the artists who do not have albums.
+
 SELECT Name AS Artist,
        Artists.ArtistId,
        Albums.Title AS Album
